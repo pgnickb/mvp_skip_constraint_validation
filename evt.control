@@ -1,0 +1,5 @@
+# evt extension
+comment = 'evt - adds an event trigger that intercepts ALTER TABLE ADD CONSTRAINT clause forcing it to skip validation of the constraint'
+default_version = '0.1.1'
+relocatable = true
+module_pathname = '$libdir/evt'
